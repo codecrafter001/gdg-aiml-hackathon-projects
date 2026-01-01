@@ -1,0 +1,6 @@
+income,credit_score,existing_emis,past_default,risk
+45000,720,1,0,0
+30000,640,3,1,1
+60000,780,0,0,0
+25000,610,2,1,1
+52000,700,1,0,0
