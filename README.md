@@ -1,4 +1,4 @@
-# gdg-aiml-hackathon-projects
+# GDG-AIML-Hackathon-Projects
 A curated collection of  real-world AI/ML projects designed for GDG workshops and hackathons. Each project uses practical datasets, and focuses on core machine learning concepts with hands-on implementation.
 
 ---
@@ -99,6 +99,3 @@ Most libraries are **already pre-installed** in Colab.
 * Jupyter Notebook
 
 ---
-
-
-Just say 👍
